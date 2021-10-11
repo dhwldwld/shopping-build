@@ -1,4 +1,4 @@
-# shopping-build
+# mern-shopping-build
 
 React was practiced with redux and Styled Components.
 
